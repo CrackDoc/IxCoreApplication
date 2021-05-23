@@ -1,7 +1,7 @@
 #ifndef IxCoreApplication_h__
 #define IxCoreApplication_h__
 
-#include "CoreExport.h"
+#include "IxCoreApplicationExport.h"
 #include "IPluginModule.h"
 /**
 * @class CAcCoreApplication

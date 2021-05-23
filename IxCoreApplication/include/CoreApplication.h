@@ -12,9 +12,8 @@
  */
 #ifndef CoreApplication_h__
 #define CoreApplication_h__
+#include "IxCoreApplicationExport.h"
 #include "IxCoreApplication.h"
-
-#include "CoreExport.h"
 
 class IPluginModule;
 /**

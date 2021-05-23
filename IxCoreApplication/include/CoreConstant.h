@@ -1,7 +1,7 @@
 
 #ifndef CoreConstant_h__
 #define CoreConstant_h__
-#include "CoreExport.h"
+#include "IxCoreApplicationExport.h"
 
 
 extern CORE_EXPORT bool CreateUUID(void *input);
